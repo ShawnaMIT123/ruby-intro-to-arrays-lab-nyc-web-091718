@@ -19,8 +19,12 @@ end
   array.last
 end
 
-def first_element_with_array_methods
+def first_element_with_array_methods(array)
   
 end
 
-def 
+def last_element_with_array_methods(array)
+  
+end
+
+def
